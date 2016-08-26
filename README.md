@@ -1,2 +1,7 @@
-# Avionics
-Trition Rocket Club's Avionics Codes and Document Repository
+# Propulsion
+
+Triton Rocket Club's Propulsion Team Repository.
+
+All propulsion work lives on this repository.
+
+## Organization
