@@ -1,0 +1,33 @@
+Meeting Notes:
+
+SLV:
+- prop may have to take over SLV
+- should consider making a two stage rocket
+- I will look into the quantitative justification for using a two stage rocket
+
+Second stage:
+- good engineering challenge
+- mechanical design
+- electrical design
+- actuators?
+- second stage engine can extend into interstage
+- interstages are sexy
+
+- actuators are complex
+ - they are a good engineering challenge
+ 
+Flight Computer:
+- triple redundancy?
+- interstage controller
+- meche design
+ - have people design mechanical enclosuers
+- RIOs
+ - thermal
+ - pducer
+ - transmit
+ - video
+  
+- Second stage flight computer:
+ - clone of first stage
+
+- This design can be brought to the design review with SpaceX
