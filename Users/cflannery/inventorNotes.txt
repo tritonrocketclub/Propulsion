@@ -1,0 +1,81 @@
+Autodesk Inventor Tutorial:
+
+<User Interface>
+ - creating files
+ - file types
+  - how files are stored
+ - browser and panel bar in assembly, part, presentation, and drawing environments
+ 
+ <Inventor My Home>
+  -Getting Started
+  -Team Web(configure for Triton Rocket Club)
+  -Help Documentation
+  
+ <New>
+  -parts
+  -assemly
+  -presentation
+  -drawing
+  
+  -Expand new panel to select more advanced templates (Create TRC templates)
+  
+ <Recent Documents>
+  - can be opened immediately
+  - My Home Screen will remain in the bottom as a tab
+ <Recent Documents/>
+ 
+ <Environments>
+  <File Extensions>
+   Assembly Files .iam
+   Part Files .ipt
+   Drawing Files .dwg
+	-industry standard file type for drawings
+   Inventor Drawing Files .idw
+  <File Extensions/>
+  <Template Files>
+   TRC has/will be making their own templates for part files and drawing files
+   Ensures consistent units
+  <Template Files/>
+  <Part Modeling Environment>
+   Create and edit 3D parts
+   interface will adjust to present tools for your current task
+  <Part Modeling Environment/>
+  <Assembly Modeling Environment>
+   Build and edit 3D assembly models 
+   components are referenced in assemblies, part data still lives in part file
+  <Assembly Modeling Environment/>
+  <Presentation Environment>
+   Create exploded assembly views
+   record animations
+   presentation files reference assembly files
+  <Presentation Environment/>
+  <Drawing Environment>
+   Create 2D drawings of parts and assemblies
+   References parts, assemblies, and presentation files.
+  <Drawing Environment/>
+ 
+ <Project Files>
+  Dependencies between assemblies and part files will be come complicated.
+  Use a projcet file to define file dependency
+  
+  You MUST have an active project before creating any files
+   - on the bottom of the "Create New File" Dialogue
+ <Project Files/>
+ 
+ <File Types>
+ 
+ <File Types/>
+ 
+ 
+ 
+ 
+ 
+ 
+  <Parts>
+   Parts are their own entity
+   Stored in their own files
+   Can be used in multiple Assemblies
+   Changes to part files will be reflected in Assemblies
+  <Parts/>
+  <Assemblies>
+   Can be referenced in other assembly files, presentation files, and drawing files
