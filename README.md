@@ -14,7 +14,7 @@ The Propulsion Team is resposible for designing and manufacturing the propulsion
 
 ### Liquid Propellant Engine
 Research phase only.
-* Isopropyl Alcohol and Nitrogen Tetraoxide (fuel and oxidize)
+* Isopropyl Alcohol and Nitrogen Tetroxide (fuel and oxidize)
 * targeting 1000lb thrust
 * reneratively cooled
 * pressure fed
