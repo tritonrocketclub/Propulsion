@@ -1,9 +1,5 @@
 @echo off
-set /p revision= "Enter Revision Number [xx]: "
 
-md "%~dp0\tags\rev%revision%"
+python "%~dp0\_Create_Revision.py"
 
-xcopy /S/V/F  "%~dp0\trunk" "%~dp0\tags\rev%revision%"
-
-set /p hold=""s
 timeout /t 10
