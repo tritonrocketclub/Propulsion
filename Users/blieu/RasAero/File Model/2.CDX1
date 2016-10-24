@@ -1,0 +1,65 @@
+<RASAeroDocument>
+  <FileVersion>2</FileVersion>
+  <RocketDesign>
+    <NoseCone>
+      <PartType>NoseCone</PartType>
+      <Length>44</Length>
+      <Diameter>7.923</Diameter>
+      <Shape>Power Law</Shape>
+      <BluntRadius>0</BluntRadius>
+      <Location>0</Location>
+      <Color>Black</Color>
+      <PowerLaw>0.75</PowerLaw>
+    </NoseCone>
+    <BodyTube>
+      <PartType>BodyTube</PartType>
+      <Length>144</Length>
+      <Diameter>7.923</Diameter>
+      <LaunchLugDiameter>0</LaunchLugDiameter>
+      <LaunchLugLength>0</LaunchLugLength>
+      <RailGuideDiameter>0</RailGuideDiameter>
+      <RailGuideHeight>0</RailGuideHeight>
+      <LaunchShoeArea>0</LaunchShoeArea>
+      <Location>44</Location>
+      <Color>Black</Color>
+      <BoattailLength>0</BoattailLength>
+      <BoattailRearDiameter>0</BoattailRearDiameter>
+      <BoattailOffset>0</BoattailOffset>
+      <Overhang>0</Overhang>
+    </BodyTube>
+    <Surface>Smooth (Zero Roughness)</Surface>
+    <CP>0</CP>
+    <ModifiedBarrowman>False</ModifiedBarrowman>
+    <Turbulence>False</Turbulence>
+    <SustainerNozzle>0</SustainerNozzle>
+    <Booster1Nozzle>0</Booster1Nozzle>
+    <Booster2Nozzle>0</Booster2Nozzle>
+    <UseBooster1>False</UseBooster1>
+    <UseBooster2>False</UseBooster2>
+    <Comments />
+  </RocketDesign>
+  <LaunchSite>
+    <Altitude>0</Altitude>
+    <Pressure>0</Pressure>
+    <RodAngle>0</RodAngle>
+    <RodLength>4</RodLength>
+    <Temperature>74</Temperature>
+    <WindSpeed>0</WindSpeed>
+  </LaunchSite>
+  <Recovery>
+    <Altitude1>1000</Altitude1>
+    <Altitude2>1000</Altitude2>
+    <DeviceType1>None</DeviceType1>
+    <DeviceType2>None</DeviceType2>
+    <Event1>False</Event1>
+    <Event2>False</Event2>
+    <Size1>1</Size1>
+    <Size2>1</Size2>
+    <EventType1>None</EventType1>
+    <EventType2>None</EventType2>
+    <CD1>1.33</CD1>
+    <CD2>1.33</CD2>
+  </Recovery>
+  <MachAlt />
+  <SimulationList />
+</RASAeroDocument>
