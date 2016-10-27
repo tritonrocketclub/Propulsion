@@ -27,34 +27,30 @@
       <BoattailOffset>0</BoattailOffset>
       <Overhang>0</Overhang>
     </BodyTube>
-    <FinCan>
-      <PartType>FinCan</PartType>
-      <Length>5</Length>
-      <Diameter>8</Diameter>
-      <InsideDiameter>7.927</InsideDiameter>
+    <Transition>
+      <PartType>Transition</PartType>
+      <Length>2</Length>
+      <Diameter>7.927</Diameter>
+      <Location>192</Location>
+      <RearDiameter>7.927</RearDiameter>
+      <Color>Black</Color>
+    </Transition>
+    <BodyTube>
+      <PartType>BodyTube</PartType>
+      <Length>32</Length>
+      <Diameter>7.927</Diameter>
       <LaunchLugDiameter>0</LaunchLugDiameter>
       <LaunchLugLength>0</LaunchLugLength>
       <RailGuideDiameter>0</RailGuideDiameter>
       <RailGuideHeight>0</RailGuideHeight>
       <LaunchShoeArea>0</LaunchShoeArea>
-      <Location>192</Location>
-      <ShoulderLength>1</ShoulderLength>
-      <Offset>-5</Offset>
+      <Location>194</Location>
       <Color>Black</Color>
-      <Fin>
-        <Count>4</Count>
-        <Chord>2</Chord>
-        <Span>3</Span>
-        <SweepDistance>1.5</SweepDistance>
-        <TipChord>1</TipChord>
-        <Thickness>1</Thickness>
-        <LERadius>0.5</LERadius>
-        <Location>0</Location>
-        <AirfoilSection>Double Wedge</AirfoilSection>
-        <FX1>0.5</FX1>
-        <FX3>0.5</FX3>
-      </Fin>
-    </FinCan>
+      <BoattailLength>0</BoattailLength>
+      <BoattailRearDiameter>0</BoattailRearDiameter>
+      <BoattailOffset>0</BoattailOffset>
+      <Overhang>0</Overhang>
+    </BodyTube>
     <Surface>Smooth (Zero Roughness)</Surface>
     <CP>0</CP>
     <ModifiedBarrowman>False</ModifiedBarrowman>
