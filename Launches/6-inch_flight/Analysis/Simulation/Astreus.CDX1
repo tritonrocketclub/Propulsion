@@ -3,24 +3,23 @@
   <RocketDesign>
     <NoseCone>
       <PartType>NoseCone</PartType>
-      <Length>48</Length>
-      <Diameter>8</Diameter>
-      <Shape>Power Law</Shape>
+      <Length>30</Length>
+      <Diameter>6</Diameter>
+      <Shape>LV-Haack</Shape>
       <BluntRadius>0</BluntRadius>
       <Location>0</Location>
       <Color>Black</Color>
-      <PowerLaw>0.75</PowerLaw>
     </NoseCone>
     <BodyTube>
       <PartType>BodyTube</PartType>
-      <Length>156</Length>
-      <Diameter>8</Diameter>
+      <Length>84</Length>
+      <Diameter>6</Diameter>
       <LaunchLugDiameter>0</LaunchLugDiameter>
       <LaunchLugLength>0</LaunchLugLength>
       <RailGuideDiameter>0</RailGuideDiameter>
       <RailGuideHeight>0</RailGuideHeight>
       <LaunchShoeArea>0</LaunchShoeArea>
-      <Location>48</Location>
+      <Location>30</Location>
       <Color>Black</Color>
       <BoattailLength>0</BoattailLength>
       <BoattailRearDiameter>0</BoattailRearDiameter>
@@ -30,11 +29,11 @@
         <Count>4</Count>
         <Chord>18</Chord>
         <Span>6</Span>
-        <SweepDistance>6</SweepDistance>
-        <TipChord>8</TipChord>
+        <SweepDistance>14</SweepDistance>
+        <TipChord>2</TipChord>
         <Thickness>0.5</Thickness>
         <LERadius>0</LERadius>
-        <Location>22</Location>
+        <Location>20</Location>
         <AirfoilSection>Rounded</AirfoilSection>
         <FX1>0</FX1>
         <FX3>0</FX3>
@@ -76,10 +75,9 @@
   <MachAlt />
   <SimulationList>
     <Simulation>
-      <SustainerEngine>Q19135  (TRC)</SustainerEngine>
-      <SustainerLaunchWt>300</SustainerLaunchWt>
-      <SustainerNozzleDiameter>6.75</SustainerNozzleDiameter>
-      <SustainerCG>80</SustainerCG>
+      <SustainerLaunchWt>180</SustainerLaunchWt>
+      <SustainerNozzleDiameter>4.25</SustainerNozzleDiameter>
+      <SustainerCG>55</SustainerCG>
       <SustainerIgnitionDelay>0</SustainerIgnitionDelay>
       <Booster1LaunchWt>0</Booster1LaunchWt>
       <Booster1SeparationDelay>0</Booster1SeparationDelay>
@@ -95,9 +93,9 @@
       <FlightTime>0</FlightTime>
       <TimetoApogee>0</TimetoApogee>
       <MaxAltitude>0</MaxAltitude>
-      <MaxVelocity>312.478</MaxVelocity>
-      <OptimumWt>300</OptimumWt>
-      <OptimumMaxAlt>300</OptimumMaxAlt>
+      <MaxVelocity>0</MaxVelocity>
+      <OptimumWt>0</OptimumWt>
+      <OptimumMaxAlt>0</OptimumMaxAlt>
     </Simulation>
   </SimulationList>
 </RASAeroDocument>
