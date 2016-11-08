@@ -1,0 +1,17 @@
+System Design Review Notes
+
+Big picture, high level design for 8-inch launch
+
+Intrepid:
+* shall be a rocket
+* must be scalable for the "space launch"
+* altitude goal/motor class?
+ - defined by motor class
+ - Q motor
+ - 125k feet
+ 
+ stability margin
+ 
+ 2 stage rocket
+ 
+Jared says we can't do large 2 stage bc of faa
